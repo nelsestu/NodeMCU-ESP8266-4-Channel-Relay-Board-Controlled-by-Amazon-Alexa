@@ -2,7 +2,7 @@ This code will create four FauxMo smart-home devices that emulate Belkin We-Mo s
 
 The five additional files: CallbackFunction.h, Switch.cpp, Switch.h, UpnpBroadcastResponder.cpp, and UpnpBroadcastResponder.h are required for the NODEMCU_ALEXA_wemos.ino file to complie and upload to your NodeMCU or ESP8266. 
 
-For more information on how to install the requsite ESP8266 libraries and boards to Arduino, please read the instructables I've exported as a standalone html page, and also the documentation by Charles Gantt who has created all the tutorial content for this instructables project as well as the LinkNodeR4 and Amazon Alexa tutorial article which can be found at: http://themakersworkbench.com/tutorial/how-use-amazon-alexa-control-linknode-r4-esp8266-4-channel-relay-board
+For more information on how to install the requsite ESP8266 libraries and boards to Arduino, please read the [instructables I've exported as a standalone html page](Home-Automation-with-NodeMCU-AmazonAlexa.html), and also the documentation by Charles Gantt who has created all the tutorial content for this instructables project as well as the LinkNodeR4 and Amazon Alexa tutorial article which can be found at: http://themakersworkbench.com/tutorial/how-use-amazon-alexa-control-linknode-r4-esp8266-4-channel-relay-board
 
 For links to the components used in this project, open the Project_BOM zip file for an excel, open doc, and pdf of the bill of materials and links to the products on Amazon.com. 
 
